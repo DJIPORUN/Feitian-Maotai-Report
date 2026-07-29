@@ -47,7 +47,7 @@
 - Xcode Command Line Tools
 
 ```bash
-git clone https://github.com/DJIPORUN/feitian-maotai-report.git
+git clone https://github.com/DJIPORUN/Feitian-Maotai-Report.git
 cd feitian-maotai-report
 ./Scripts/run_tests.sh
 ./Scripts/build_app.sh
